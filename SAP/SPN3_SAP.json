@@ -1,0 +1,227 @@
+[
+	{
+		"id": "vanBuurenGroothuisOudshoorn2011",
+		"type": "article-journal",
+		"container-title": "Journal of Statistical Software",
+		"DOI": "10.18637/jss.v045.i03",
+		"ISSN": "1548-7660",
+		"issue": "3",
+		"journalAbbreviation": "J. Stat. Soft.",
+		"language": "en",
+		"source": "DOI.org (Crossref)",
+		"title": "<b>mice</b> : Multivariate Imputation by Chained Equations in <i>R</i>",
+		"title-short": "<b>mice</b>",
+		"URL": "http://www.jstatsoft.org/v45/i03/",
+		"volume": "45",
+		"author": [
+			{
+				"family": "Buuren",
+				"given": "Stef",
+				"non-dropping-particle": "van"
+			},
+			{
+				"family": "Groothuis-Oudshoorn",
+				"given": "Karin"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					9,
+					22
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "hopewell_etal2025",
+		"type": "article-journal",
+		"abstract": "BACKGROUND: Well designed and properly executed randomised trials are considered the most reliable evidence on the benefits of healthcare interventions. However, there is overwhelming evidence that the quality of reporting is not optimal. The CONSORT (Consolidated Standards of Reporting Trials) statement was designed to improve the quality of reporting and provides a minimum set of items to be included in a report of a randomised trial. CONSORT was first published in 1996, then updated in 2001 and 2010. Here, we present the updated CONSORT 2025 statement, which aims to account for recent methodological advancements and feedback from end users.\nMETHODS: We conducted a scoping review of the literature and developed a project-specific database of empirical and theoretical evidence related to CONSORT, to generate a list of potential changes to the checklist. The list was enriched with recommendations provided by the lead authors of existing CONSORT extensions (Harms, Outcomes, Non-pharmacological Treatment), other related reporting guidelines (TIDieR) and recommendations from other sources (eg, personal communications). The list of potential changes to the checklist was assessed in a large, international, online, three-round Delphi survey involving 317 participants and discussed at a two-day online expert consensus meeting of 30 invited international experts.\nRESULTS: We have made substantive changes to the CONSORT checklist. We added seven new checklist items, revised three items, deleted one item, and integrated several items from key CONSORT extensions. We also restructured the CONSORT checklist, with a new section on open science. The CONSORT 2025 statement consists of a 30-item checklist of essential items that should be included when reporting the results of a randomised trial and a diagram for documenting the flow of participants through the trial. To facilitate implementation of CONSORT 2025, we have also developed an expanded version of the CONSORT 2025 checklist, with bullet points eliciting critical elements of each item.\nCONCLUSION: Authors, editors, reviewers, and other potential users should use CONSORT 2025 when writing and evaluating manuscripts of randomised trials to ensure that trial reports are clear and transparent.",
+		"container-title": "BMJ (Clinical research ed.)",
+		"DOI": "10.1136/bmj-2024-081123",
+		"ISSN": "1756-1833",
+		"journalAbbreviation": "BMJ",
+		"language": "eng",
+		"note": "PMID: 40228833\nPMCID: PMC11995449",
+		"page": "e081123",
+		"source": "PubMed",
+		"title": "CONSORT 2025 statement: updated guideline for reporting randomised trials",
+		"title-short": "CONSORT 2025 statement",
+		"volume": "389",
+		"author": [
+			{
+				"family": "Hopewell",
+				"given": "Sally"
+			},
+			{
+				"family": "Chan",
+				"given": "An-Wen"
+			},
+			{
+				"family": "Collins",
+				"given": "Gary S."
+			},
+			{
+				"family": "Hróbjartsson",
+				"given": "Asbjørn"
+			},
+			{
+				"family": "Moher",
+				"given": "David"
+			},
+			{
+				"family": "Schulz",
+				"given": "Kenneth F."
+			},
+			{
+				"family": "Tunn",
+				"given": "Ruth"
+			},
+			{
+				"family": "Aggarwal",
+				"given": "Rakesh"
+			},
+			{
+				"family": "Berkwits",
+				"given": "Michael"
+			},
+			{
+				"family": "Berlin",
+				"given": "Jesse A."
+			},
+			{
+				"family": "Bhandari",
+				"given": "Nita"
+			},
+			{
+				"family": "Butcher",
+				"given": "Nancy J."
+			},
+			{
+				"family": "Campbell",
+				"given": "Marion K."
+			},
+			{
+				"family": "Chidebe",
+				"given": "Runcie C. W."
+			},
+			{
+				"family": "Elbourne",
+				"given": "Diana"
+			},
+			{
+				"family": "Farmer",
+				"given": "Andrew"
+			},
+			{
+				"family": "Fergusson",
+				"given": "Dean A."
+			},
+			{
+				"family": "Golub",
+				"given": "Robert M."
+			},
+			{
+				"family": "Goodman",
+				"given": "Steven N."
+			},
+			{
+				"family": "Hoffmann",
+				"given": "Tammy C."
+			},
+			{
+				"family": "Ioannidis",
+				"given": "John P. A."
+			},
+			{
+				"family": "Kahan",
+				"given": "Brennan C."
+			},
+			{
+				"family": "Knowles",
+				"given": "Rachel L."
+			},
+			{
+				"family": "Lamb",
+				"given": "Sarah E."
+			},
+			{
+				"family": "Lewis",
+				"given": "Steff"
+			},
+			{
+				"family": "Loder",
+				"given": "Elizabeth"
+			},
+			{
+				"family": "Offringa",
+				"given": "Martin"
+			},
+			{
+				"family": "Ravaud",
+				"given": "Philippe"
+			},
+			{
+				"family": "Richards",
+				"given": "Dawn P."
+			},
+			{
+				"family": "Rockhold",
+				"given": "Frank W."
+			},
+			{
+				"family": "Schriger",
+				"given": "David L."
+			},
+			{
+				"family": "Siegfried",
+				"given": "Nandi L."
+			},
+			{
+				"family": "Staniszewska",
+				"given": "Sophie"
+			},
+			{
+				"family": "Taylor",
+				"given": "Rod S."
+			},
+			{
+				"family": "Thabane",
+				"given": "Lehana"
+			},
+			{
+				"family": "Torgerson",
+				"given": "David"
+			},
+			{
+				"family": "Vohra",
+				"given": "Sunita"
+			},
+			{
+				"family": "White",
+				"given": "Ian R."
+			},
+			{
+				"family": "Boutron",
+				"given": "Isabelle"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2025",
+					4,
+					14
+				]
+			]
+		}
+	}
+]
